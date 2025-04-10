@@ -1,8 +1,9 @@
 def plus():
     print("9")
 
-def subtract():
-    print('-1')
+#ham tru
+# def subtract():
+#     print('-1')
 
 
 
